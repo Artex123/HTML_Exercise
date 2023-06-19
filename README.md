@@ -12,7 +12,12 @@ Practice using HTML tags to structure a content on web pages.
 ## Exercise 1
 
 Steps are to be completed under the div with `id="exercise1"`
-
+<div>
+   <h1 id="exercise1">Ben Zellers</h1>
+   <p>
+      Hello, I was born in Sausalito, California which is located across the bay from San Fransisco.  My Dad is retired military, which means we moved quite often.  After I was born my family had to move to Hermersberg Germany and we were statiioned there for roughly 4 years.  From here we moved to Aurora, Colorado which is a suburb of Denver and we stayed here for 7 years.  This is where my love of the Denver and Colorado sports teams comes from.  We moved to Ardmore, Oklahoma after Denver and then finally residing in Portage, Michigan.  
+   </p>
+</div>
 1. Create a **heading 1** element that contains your name between opening and closing tags
 2. Create a **paragraph** element that contains a bio about yourself
 
